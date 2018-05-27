@@ -3,7 +3,7 @@ the following information:
 
 database: 0908034
 username: 0908034
-password: ohngoghi
+password: ohngoghi12
 
 You can use this information in your script to store information in the
 database. And you can use it to administer your database through
